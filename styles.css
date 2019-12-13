@@ -1,0 +1,27 @@
+h1{
+    text-align:center;
+}
+
+p{
+    text-align:center;
+}
+
+body{
+    background-color:lavender;
+}
+h1{
+    color:lime;
+}
+img{
+    border-radius:50px;
+    width:300px;
+}
+
+#imagesize{
+    text-align:center;
+    display:block;
+}
+#imagesize1{
+    text-align:center;
+    display:block;
+}
